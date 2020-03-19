@@ -1,0 +1,23 @@
+{
+  "name": "week4node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeelaCharan/week4node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NeelaCharan/week4node/issues"
+  },
+  "homepage": "https://github.com/NeelaCharan/week4node#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "mongoose": "^5.9.3"
+  }
+}
